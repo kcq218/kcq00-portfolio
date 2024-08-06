@@ -16,7 +16,7 @@ I wanted to build a simple portfolio site that will include my resume and show o
 
 -DESIGN
 
-![kcq-portfolio-img](https://github.com/user-attachments/assets/0697ad07-4633-42fa-b550-82533af4d667)
+![kcq-portfolio-img](https://kcq00allpurpose.blob.core.windows.net/imgkcq00/pagedesign.png?sp=r&st=2024-08-06T07:08:40Z&se=2025-09-01T15:08:40Z&spr=https&sv=2022-11-02&sr=b&sig=8Kiqr4HNFZOp94klWWdOwgf5AKRuaeyGwmtxtx%2Fwwj4%3D)
 
 
 -LESSONS LEARNED
