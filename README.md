@@ -16,7 +16,7 @@ I wanted to build a simple portfolio site that will include my resume and show o
 
 -DESIGN
 
-![shortenurldesign drawio](https://github.com/user-attachments/assets/0697ad07-4633-42fa-b550-82533af4d667)
+![kcq-portfolio-img](https://github.com/user-attachments/assets/0697ad07-4633-42fa-b550-82533af4d667)
 
 
 -LESSONS LEARNED
