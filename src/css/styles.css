@@ -8874,6 +8874,7 @@ textarea.form-control-lg {
   }
   .justify-content-md-start {
     justify-content: flex-start !important;
+    gap: 5rem;
   }
   .justify-content-md-end {
     justify-content: flex-end !important;
